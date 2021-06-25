@@ -19,4 +19,5 @@ Request | https://pypi.org/project/requests/ | send HTTP requests to fetch data
 * Python
 * Data Science basics (https://github.com/ACM-JUIT/Data-Science-and-Machine-Learning)
 
-
+## Team-Progress
+[Progress.md](https://github.com/TheSansySasy/Astroviz.io/blob/main/progress.md "progress.md")
