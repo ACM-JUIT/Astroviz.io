@@ -1,12 +1,12 @@
-#Team-Progress(till date 25-6-2021)
+# Team-Progress(till date 25-6-2021)
 
-##The team has learned
+## The team has learned
 1. Basic Python
 2. Data visualization
-3. pandas
+3. Pandas
 
-##skills to be learnt in the coming week	
-1. plotly
-2. dash
+## Skills to be learnt in the coming week	
+1. Plotly
+2. Dash
 
 
